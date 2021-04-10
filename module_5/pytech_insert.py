@@ -1,3 +1,11 @@
+""" 
+    Title: pytech_insert.py
+    Author: Ricardo Guillen Vergara
+    Date: 4/10/2021
+    Description: Test program for inserting new documents 
+                 into the students collection 
+"""
+
 import pymongo
 
 from pymongo import MongoClient
